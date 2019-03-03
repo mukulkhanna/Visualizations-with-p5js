@@ -9,4 +9,5 @@ Inspired by [Dan](https://www.youtube.com/user/shiffman), here are some of my at
 4. [Prominent color extraction using K-Means algorithm](https://mukulkhanna.github.io/Visualizations-with-p5js/Prominent%20color%20extraction%20using%20K-Means%20algorithm/)
 5. [Bouncing DVD logo](https://mukulkhanna.github.io/Visualizations-with-p5js/Bouncing%20DVD%20logo/)
 6. [Noisy-name template](https://mukulkhanna.github.io/Visualizations-with-p5js/Noisy-name%20template)
-7. [Constellation-like animation](https://mukulkhanna.github.io/Visualizations-with-p5js/Constellation-like%20animation)
+7. [Generative-typography](https://mukulkhanna.github.io/generative-typography/) 
+8. [Constellation-like animation](https://mukulkhanna.github.io/Visualizations-with-p5js/Constellation-like%20animation)
