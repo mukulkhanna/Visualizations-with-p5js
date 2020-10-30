@@ -3,6 +3,8 @@
 
 Inspired by [Daniel Shiffman](https://www.youtube.com/user/shiffman)
 
+![Example](https://user-images.githubusercontent.com/24846546/97699370-05566580-1ad0-11eb-97ab-7d6ca522fb48.gif)
+
 ### List of sketches:
 1. [Interactive Nearest-Neighbour  Visualization](https://mukulkhanna.github.io/Visualizations-with-p5js/Interactive%20Nearest-Neighbour%20%20Visualization/)
 2. [Snake game](https://mukulkhanna.github.io/Visualizations-with-p5js/Snake%20game)
